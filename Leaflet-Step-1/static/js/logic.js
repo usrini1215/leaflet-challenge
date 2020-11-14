@@ -1,4 +1,6 @@
 // Store our API endpoint inside queryUrl
+//Class Activity for earthquakes
+
 console.log('Am here');
 
 
