@@ -2,7 +2,7 @@
 
 ## Background
 
-![1-Logo](Images/MyLeafletImage.png)
+![1-Logo](Leaflet-Step-1/Images/MyLeafletImage.png)
 
 Welcome to the United States Geological Survey, or USGS for short! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. I have created a map of the last 7 days earth quakes as per the image above.
 
@@ -10,11 +10,11 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 
 1. **My data set**
 
-   ![3-Data](Images/3-Data.png)
+   ![3-Data](Leaflet-Step-1/Images/3-Data.png)
 
    The USGS provides earthquake data in a number of different formats, updated every 5 minutes as you can see in (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) I used : 'All Earthquakes from the Past 7 Days', for which there was JSON representation of that data. 
 
-   ![4-JSON](Images/4-JSON.png)
+   ![4-JSON](Leaflet-Step-1/Images/4-JSON.png)
 
 2. **Visualization of the Data**
 
